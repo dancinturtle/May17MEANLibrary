@@ -11,3 +11,5 @@
 4.  Git add, git commit, and git push to your own remote repo.
 
 5.  Submit a pull request.
+
+6. Charels Ryu, Tim, Alex
